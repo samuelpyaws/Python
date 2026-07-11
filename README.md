@@ -1,8 +1,6 @@
 # Python
-
-#https://tinyurl.com/93pkdvh7
 #Access specifiers
-class Person:
+#class Person:
     def __init__(self):
         self.name = "samuel"      # Public
         self._age = 25          # Protected
